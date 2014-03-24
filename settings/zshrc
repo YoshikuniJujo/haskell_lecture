@@ -14,9 +14,6 @@ compinit
 
 setopt share_history
 
-autoload -U compinit
-compinit
-
 autoload -U promptinit
 promptinit
 prompt gentoo
